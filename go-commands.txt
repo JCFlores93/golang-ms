@@ -1,0 +1,6 @@
+go help fmt 
+go fmt ./... - format 
+go run
+go build - create binary
+go install main.go - install
+go list -m all
